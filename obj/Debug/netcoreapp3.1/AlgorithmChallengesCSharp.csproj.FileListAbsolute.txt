@@ -1,0 +1,13 @@
+C:\Users\Bill\Documents\CodingFiles\Personal\csharp2020\AlgorithmChallengesCSharp\bin\Debug\netcoreapp3.1\AlgorithmChallengesCSharp.exe
+C:\Users\Bill\Documents\CodingFiles\Personal\csharp2020\AlgorithmChallengesCSharp\bin\Debug\netcoreapp3.1\AlgorithmChallengesCSharp.deps.json
+C:\Users\Bill\Documents\CodingFiles\Personal\csharp2020\AlgorithmChallengesCSharp\bin\Debug\netcoreapp3.1\AlgorithmChallengesCSharp.runtimeconfig.json
+C:\Users\Bill\Documents\CodingFiles\Personal\csharp2020\AlgorithmChallengesCSharp\bin\Debug\netcoreapp3.1\AlgorithmChallengesCSharp.runtimeconfig.dev.json
+C:\Users\Bill\Documents\CodingFiles\Personal\csharp2020\AlgorithmChallengesCSharp\bin\Debug\netcoreapp3.1\AlgorithmChallengesCSharp.dll
+C:\Users\Bill\Documents\CodingFiles\Personal\csharp2020\AlgorithmChallengesCSharp\bin\Debug\netcoreapp3.1\AlgorithmChallengesCSharp.pdb
+C:\Users\Bill\Documents\CodingFiles\Personal\csharp2020\AlgorithmChallengesCSharp\obj\Debug\netcoreapp3.1\AlgorithmChallengesCSharp.csprojAssemblyReference.cache
+C:\Users\Bill\Documents\CodingFiles\Personal\csharp2020\AlgorithmChallengesCSharp\obj\Debug\netcoreapp3.1\AlgorithmChallengesCSharp.AssemblyInfoInputs.cache
+C:\Users\Bill\Documents\CodingFiles\Personal\csharp2020\AlgorithmChallengesCSharp\obj\Debug\netcoreapp3.1\AlgorithmChallengesCSharp.AssemblyInfo.cs
+C:\Users\Bill\Documents\CodingFiles\Personal\csharp2020\AlgorithmChallengesCSharp\obj\Debug\netcoreapp3.1\AlgorithmChallengesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Documents\CodingFiles\Personal\csharp2020\AlgorithmChallengesCSharp\obj\Debug\netcoreapp3.1\AlgorithmChallengesCSharp.dll
+C:\Users\Bill\Documents\CodingFiles\Personal\csharp2020\AlgorithmChallengesCSharp\obj\Debug\netcoreapp3.1\AlgorithmChallengesCSharp.pdb
+C:\Users\Bill\Documents\CodingFiles\Personal\csharp2020\AlgorithmChallengesCSharp\obj\Debug\netcoreapp3.1\AlgorithmChallengesCSharp.genruntimeconfig.cache
